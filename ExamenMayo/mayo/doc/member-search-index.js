@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mayo","c":"Circulo","l":"calculoArea()"},{"p":"mayo","c":"Circulo","l":"calculoPerimetro()"},{"p":"mayo","c":"Circulo","l":"Circulo()","u":"%3Cinit%3E()"},{"p":"mayo","c":"Circulo","l":"colorAceptable()"},{"p":"mayo","c":"Circulo","l":"getNumCirculos()"},{"p":"mayo","c":"Circulo","l":"setNumCirculos(int)"}];updateSearchResults();
